@@ -1,0 +1,5 @@
+{
+  "name": "Public Sector AVC Planner",
+  "description": "A comprehensive pension calculator for Irish Public Sector employees to estimate tax relief, fund growth, and retirement drawdown.",
+  "requestFramePermissions": []
+}
